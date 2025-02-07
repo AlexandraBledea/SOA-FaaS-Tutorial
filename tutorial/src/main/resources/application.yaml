@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: tutorial
+
+lambdaURL: https://rb2jqfl453xnhag3cw2bdseyxq0dmygm.lambda-url.eu-central-1.on.aws/
